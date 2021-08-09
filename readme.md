@@ -13,22 +13,18 @@ pip install foobar
 ## Usage
 
 ```python
-import foobar
+nohup python main.py
 
-# returns 'words'
-foobar.pluralize('word')
+# pid 'id'
+To Kill process 
+kill -9 'id'
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Description
 Project name - used language and difficulties, members trello board name 
 
-Please make sure to update tests as appropriate.
+Please make sure simplicity and tideness 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[INLAB DIGITAL](https://inlab.uz/licenses/software/)
